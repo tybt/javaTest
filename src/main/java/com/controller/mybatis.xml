@@ -28,7 +28,7 @@
     <mappers>
         <!-- 注册userMapper.xml文件，
         userMapper.xml位于me.gacl.mapping这个包下，所以resource写成me/gacl/mapping/userMapper.xml-->
-        <mapper resource="com/fpc/Mapping/questionMapper.xml"/>
+        <mapper resource="com/userMapper.xml"/>
         <!-- <mapper class="com.fpc.Mapping.questionMapperI"/> -->
     </mappers>
 
